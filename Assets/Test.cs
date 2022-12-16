@@ -8,7 +8,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         int number1;
-        float number2;
+        float number2 = 100f;
     }
 
     // Update is called once per frame
